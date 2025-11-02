@@ -4,6 +4,4 @@ how are you ?
 
 updating file
 
-practicing git
-
-practice today 
+this is a new feature branch update
