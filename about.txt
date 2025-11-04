@@ -5,3 +5,5 @@ welcome to git bash app
 my name is kumar
 
 i am practicing git 
+
+how are you
