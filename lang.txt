@@ -6,7 +6,11 @@ most popular language in the wworld
 java is also most popular programming language in the world
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 how are you
 =======
 hello how are you 
 >>>>>>> new
+=======
+new branch created
+>>>>>>> new1
