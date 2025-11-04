@@ -5,4 +5,8 @@ thank you.
 
 this is first change i made.
 
+<<<<<<< HEAD
 this is line from new3 branch
+=======
+this change for checking merge conflict
+>>>>>>> new
