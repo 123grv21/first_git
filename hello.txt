@@ -3,6 +3,18 @@ This Is My First change.
 git help me track my project versions easily
 thank you.
 
+<<<<<<< HEAD
 this is first change i made.
 
+<<<<<<< HEAD
 this is line from new3 branch
+=======
+this change for checking merge conflict
+>>>>>>> new
+=======
+this is change made by gaurav
+
+practice git
+
+changing branch
+>>>>>>> new1
