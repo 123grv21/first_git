@@ -7,5 +7,4 @@ updating file
 practicing git 
 
 python is programming language
-
-java is programming language
+this is a new feature branch update
