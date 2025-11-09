@@ -1,3 +1,7 @@
+
+line from conflict-test branch
+
+
 # Git Practice Repository
 This repository is for practicing Git and version control concepts. It includes hands-on exercises using essential Git commands and workflows.
 
@@ -19,6 +23,7 @@ This repository is for practicing Git and version control concepts. It includes 
 - .gitignore usage
 - Reverting and resetting commits
 - Working with remotes (origin, upstream)
+
 
 
 
